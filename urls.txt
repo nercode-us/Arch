@@ -1,0 +1,3 @@
+Init Systems:
+https://wiki.archlinux.org/title/Systemd
+https://wiki.archlinux.org/title/OpenRC
